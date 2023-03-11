@@ -1,6 +1,6 @@
 #  📚 Library-Management-System (LMS) using C++
 
-![Library-Management-System](https://socialify.git.ci/Kaustav-Purkayastha/Library-Management-System/image?description=1&descriptionEditable=Project%20-%3E%20%0ALibrary%20Management%20System%20(LMS)%20using%20C%2B%2B&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+![Library-Management-System](https://socialify.git.ci/Kaustav-Purkayastha/Library-Management-System/image?description=1&descriptionEditable=Project%20-%3E%20%0ALibrary%20Management%20System%20(LMS)%20using%20C%2B%2B&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark)
 
 
 ### 🔥 Let\'s Connect! 👇 
