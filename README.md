@@ -50,7 +50,7 @@
 
 
 ## 🖥 Want to see all the Outputs?
-> ### &ensp;&ensp;[Click Here!](https://github.com/Kaustav-Purkayastha/Library-Management-System/blob/main/Outputs/)
+> ### &ensp;&ensp;[💥Click Here!](https://github.com/Kaustav-Purkayastha/Library-Management-System/blob/main/Outputs/)
 <br/>
 <br/>
 
